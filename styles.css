@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+}
+body{
+    text-align:center;
+    font-family:'comic sans ms';
+    color : orange
+    background-image : url("https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a72923d482dbcb2c8eee1d63498ae5a9fc6fc25_image.png");
+}
